@@ -105,7 +105,7 @@ For advanced JSON usage, check out the [`parseJson`](documentation/2-options.md#
 - [Trusted by many companies](#widely-used)
 
 ## Documentation
-
+ 
 #### Main API
 
 - [x] [Promise API](documentation/1-promise.md)
