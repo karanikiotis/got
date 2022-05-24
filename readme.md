@@ -77,7 +77,7 @@ $ npm install got
 ## Take a peek
 
 ### JSON mode
-
+ 
 Got has a dedicated option for handling JSON payload.\
 Furthermore, the promise exposes a `.json<T>()` function that returns `Promise<T>`.
 
